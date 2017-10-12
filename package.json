@@ -5,7 +5,7 @@
   "author": "cesarlopezfa <cesarlopezfa@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "http-server phaser_tutorial_02"
+    "start": "http-server src"
   },
   "dependencies": {
     "http-server": "^0.10.0"
