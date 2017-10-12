@@ -1,0 +1,13 @@
+{
+  "name": "phaser-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cesarlopezfa <cesarlopezfa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server phaser_tutorial_02"
+  },
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
